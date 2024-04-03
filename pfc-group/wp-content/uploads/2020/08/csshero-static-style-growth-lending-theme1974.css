@@ -1,0 +1,125 @@
+.wpforms-field .wpforms-field-label {
+  color: #2F2D2E;
+  font-family: Kulim Park, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+}
+wpforms-field input {
+  font-family: Kulim Park, sans-serif;
+}
+.wpforms-field .wpforms-field-sublabel {
+  color: #2F2D2E;
+  font-family: Kulim Park, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+#wpforms-450 button.wpforms-submit {
+  background-color: #CC0000;
+  border: 0px;
+  border-radius: 6px;
+  color: #ffffff;
+  font-family: Kulim Park, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  padding: 12px 50px 12px 50px;
+  width: 100%;
+}
+/*next page button style*/
+#wpforms-450 .wpforms-page-button,
+.wpforms-page-next {
+  background-color: #CC0000;
+  border: 0px;
+  border-radius: 6px;
+  color: #ffffff;
+  font-family: Kulim Park, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  padding: 12px 50px 12px 50px;
+}
+.wpforms-field-description {
+  color: #2F2D2E;
+  font-family: Kulim Park, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.wpforms-error {
+  color: #CC0000;
+  font-family: Kulim Park, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  padding-top: 4px;
+}
+.wpforms-page-indicator-steps {
+  color: #2F2D2E;
+  font-family: Kulim Park, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.wpforms-required-label {
+  color: #CC0000;
+}
+.section-form-title {
+  color: #CC0000;
+  font-family: Kulim Park, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  text-align: center;
+}
+.wpforms-field-limit-text {
+  color: #2F2D2E;
+  font-family: Kulim Park, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+.wpforms-field-label-inline {
+  color: #2F2D2E;
+  font-family: Kulim Park, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+}
+#wpforms-469 button.wpforms-submit {
+  background-color: #CC0000;
+  border: 0px;
+  border-radius: 0px;
+  color: #ffffff;
+  font-family: Kulim Park, sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  padding: 12px 50px 12px 50px;
+  width: 100%;
+}
+/*next page button style*/
+#wpforms-469 .wpforms-page-button,
+.wpforms-page-next {
+  background-color: #CC0000;
+  border: 0px;
+  border-radius: 0px;
+  color: #ffffff;
+  font-family: Kulim Park, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 16px;
+  padding: 12px 50px 12px 50px;
+}
+.wpforms-field ul li {
+  font-family: Kulim Park, sans-serif;
+}
+.forminfo {
+  color: #2F2D2E;
+  font-family: Kulim Park, sans-serif;
+  font-style: normal;
+  font-weight: 300;
+}
+body.elementor-page-630:not(.elementor-motion-effects-element-type-background) p {
+  padding: 20px;
+}
+#wpforms-450 .wpforms-field .wpforms-field-label {
+  font-weight: 300;
+}
+#wpforms-469 .wpforms-field .wpforms-field-label {
+  font-weight: 300;
+}
